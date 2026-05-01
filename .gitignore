@@ -1,0 +1,18 @@
+# Houdini
+geo/
+render/
+
+# Houdini temp files
+*.hiplc.autosave
+*.hiplc.bak
+backup/
+houdini.env
+
+.DS_Store
+CLAUDE.md
+files/
+
+SHARP/*
+!SHARP/sample.ply
+SHARP_converted/*
+!SHARP_converted/sample.ply
