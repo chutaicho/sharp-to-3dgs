@@ -1,6 +1,6 @@
 # sharp-to-3dgs
 
-Converts [SHARP](https://github.com/autonomousvision/sharp)-format `.ply` files into standard [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) `.ply` format, compatible with Houdini's `bakegsplat` node.
+Converts [Apple's SHARP](https://github.com/apple/ml-sharp)-format `.ply` files into standard 3D Gaussian Splatting `.ply` format, compatible with Houdini's `bakegsplat` node.
 
 ## Requirements
 
