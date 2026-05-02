@@ -2,6 +2,8 @@
 
 Converts [Apple's SHARP](https://github.com/apple/ml-sharp)-format `.ply` files into standard 3D Gaussian Splatting `.ply` format, compatible with Houdini's `bakegsplat` node.
 
+![](./doc/image.png)
+
 ## Requirements
 
 - Python 3.x
@@ -33,3 +35,6 @@ SHARP and standard 3DGS both use binary-little-endian PLY. The script remaps fie
 | Camera metadata | ✓ (skipped) | — |
 
 Zero-filled SH coefficients mean converted splats render with flat/diffuse color only — no view-dependent shading.
+
+
+
