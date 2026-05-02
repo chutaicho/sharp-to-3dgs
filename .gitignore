@@ -16,3 +16,6 @@ SHARP/*
 !SHARP/sample.ply
 SHARP_converted/*
 !SHARP_converted/sample.ply
+
+archive/
+.venv/
